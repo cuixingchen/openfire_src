@@ -170,7 +170,6 @@
 	<classpathentry kind="lib" path="target/openfire/lib/jasper-runtime.jar"/>
 	<classpathentry kind="lib" path="target/openfire/lib/jdic.jar"/>
 	<classpathentry kind="lib" path="target/openfire/lib/jtds.jar"/>
-	<classpathentry kind="lib" path="target/openfire/lib/log4j.xml"/>
 	<classpathentry kind="lib" path="target/openfire/lib/mail.jar"/>
 	<classpathentry kind="lib" path="target/openfire/lib/mysql.jar"/>
 	<classpathentry kind="lib" path="target/openfire/lib/openfire.jar"/>
@@ -178,7 +177,6 @@
 	<classpathentry kind="lib" path="target/openfire/lib/servlet.jar"/>
 	<classpathentry kind="lib" path="target/openfire/lib/slf4j-log4j12.jar"/>
 	<classpathentry kind="lib" path="target/openfire/lib/startup.jar"/>
-	<classpathentry kind="lib" path="target/openfire/lib/tray.dll"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
