@@ -5,8 +5,8 @@
     <name>StatusPlugin Service</name>
     <description>StatusPlugin</description>
     <author>cuipengfei</author>
-    <version>1.0.1</version>
-    <date>17/06/2014</date>
+    <version>1.0.0</version>
+    <date>18/06/2014</date>
     <minServerVersion>3.5.1</minServerVersion>
 
 </plugin>

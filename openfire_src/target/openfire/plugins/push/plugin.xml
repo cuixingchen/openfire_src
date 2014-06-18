@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>org.jivesoftware.openfire.plugin.PushServicePlugin</class>
+    <name>Push Service</name>
+    <description>push</description>
+    <author>cuipengfei</author>
+    <version>1.0.0</version>
+    <date>12/10/2013</date>
+    <minServerVersion>3.5.1</minServerVersion>
+
+</plugin>

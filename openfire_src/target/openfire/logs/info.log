@@ -1,0 +1,5 @@
+2014.06.18 09:34:24 org.jivesoftware.openfire.XMPPServer - Registering shutdown hook (standalone mode)
+2014.06.18 09:34:24 org.jivesoftware.openfire.XMPPServer - Openfire 3.8.2 [Jun 18, 2014 9:34:24 AM]
+2014.06.18 09:34:29 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Misses
+2014.06.18 09:34:29 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Hits
+2014.06.18 09:34:29 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console listening at http://127.0.0.1:9090
